@@ -1,0 +1,3 @@
+Hello, I am starting my TECH journey :)
+TOP = The Odin Project!
+Student of TOP!
