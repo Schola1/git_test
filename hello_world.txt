@@ -1,0 +1,2 @@
+Hello, I'm Schola.
+My first file on the odin project. Currently trying to understand git.
